@@ -3,7 +3,7 @@
 
 
 
-Group-75 member:
+Team (Group 75):
 
 \-Bassam Aljalawi
 
