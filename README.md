@@ -1,4 +1,4 @@
-# Socket-Milestone
+# Socket-Full
 
 
 
@@ -11,7 +11,6 @@ Team:
 
 
 
-## Four terminals on one computer (local test)
 
 
 
