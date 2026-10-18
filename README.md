@@ -1,6 +1,6 @@
 # CSE 434 Socket-Full — Group 75 (Bassam Aljalawi)
 
-Python 3, UDP, ports 37500–37999.
+A distributed hash table (DHT) of storm-event data, built in Python 3, UDP, ports 37500–37999.
 
 ```
 python3 manager.py 37500
